@@ -31,11 +31,12 @@ datesToKeep = {"measurement": [datetime.datetime(2021, 6, 30), datetime.datetime
                "calibration": [datetime.datetime(2021,6,15), datetime.datetime(2021,6,16)]}
 
 # Number of times data have been collected
-nbColl = 2
+nbColl = 3
 
 # Path for data
-relPathCalibBefore = os.sep+"Data"+os.sep+"CalibrationBefore"+os.sep
-relPathOnsite = os.sep+"Data"+os.sep
+dataPath = Path(os.curdir).absolute().parent.joinpath("Data")
+relPathCalibBefore = str(dataPath.joinpath(os.path.join("raw", "CalibrationBefore")))
+relPathOnsite = str(dataPath.joinpath(os.path.join("raw")))
 
 # Sampling period (min)
 dt = 10
@@ -45,14 +46,14 @@ dt = 10
 #################### Read the data ############################################
 ############################################################################### 
 # Get the current working directory
-currentDir = str(Path(os.path.abspath(os.path.curdir)))
+currentDir = str(Path(os.path.abspath(os.curdir)))
 
 # Get a list of all data files
 listOfFiles = {}
 if measurementType == "calibration":
-    listOfFiles[1] = glob.glob(currentDir+relPathCalibBefore+"*.txt")
+    listOfFiles[1] = glob.glob(os.path.join(relPathCalibBefore+"*.txt"))
 elif measurementType == "measurement":
-    listOfFiles = {i: glob.glob(currentDir+relPathOnsite+str(i)+os.sep+"*.txt") 
+    listOfFiles = {i: glob.glob(os.path.join(relPathOnsite, str(i), "*.txt")) 
                        for i in range(1, nbColl+1)}
 
 df_temp = {}
