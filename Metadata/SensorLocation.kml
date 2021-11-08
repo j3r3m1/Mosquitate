@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Measurement campaign Summer 2021  </name>
+    <description/>
+    <Style id="icon-1661-000000-nodesc-normal">
+      <IconStyle>
+        <color>ff000000</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1661-000000-nodesc-highlight">
+      <IconStyle>
+        <color>ff000000</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1661-000000-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1661-000000-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1661-000000-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1710-E65100-labelson">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Folder>
+      <name>Tinytags</name>
+      <Placemark>
+        <name>A8</name>
+        <description><![CDATA[<img src="https://doc-0k-0c-mymaps.googleusercontent.com/untrusted/hostedimage/75ptkup1t6arbl09tr46kunqo8/6ieeij924idld9p6m0t2069uhc/1636380131750/XN5no1YkbF2fDQOQmoiqAyDJGVSrltl5/09234823175066956093/5AIsG_vaaZeJAwhBqGSaHHFEMrkUjYKso3rkFXXpQ8hMSA61By0l_THbbcw5NLyHcf7LZEVk11ED7z0iTyp3XERV8LoBXznoTZLAGcHxJO_zVBQAI_KAB3C6uwKH3ldE8PTB0isNWC1ZXLqzWVOsqEjXPVhCzgCqG21bqjFpYTfIfjQagYVHngm2f-H5NJkyi05v3YzXG?session=0&fife" height="200" width="auto" /><br><br>POI]]></description>
+        <styleUrl>#icon-1710-E65100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0k-0c-mymaps.googleusercontent.com/untrusted/hostedimage/75ptkup1t6arbl09tr46kunqo8/6ieeij924idld9p6m0t2069uhc/1636380131750/XN5no1YkbF2fDQOQmoiqAyDJGVSrltl5/09234823175066956093/5AIsG_vaaZeJAwhBqGSaHHFEMrkUjYKso3rkFXXpQ8hMSA61By0l_THbbcw5NLyHcf7LZEVk11ED7z0iTyp3XERV8LoBXznoTZLAGcHxJO_zVBQAI_KAB3C6uwKH3ldE8PTB0isNWC1ZXLqzWVOsqEjXPVhCzgCqG21bqjFpYTfIfjQagYVHngm2f-H5NJkyi05v3YzXG?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            11.9638688,57.687864,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A2</name>
+        <description><![CDATA[<img src="https://doc-0s-0c-mymaps.googleusercontent.com/untrusted/hostedimage/75ptkup1t6arbl09tr46kunqo8/fukke4g68i99k04o16hsi1md0g/1636380131750/XN5no1YkbF2fDQOQmoiqAyDJGVSrltl5/09234823175066956093/5AIsG_vbW6nd9wWeKYYEYS6UETVnTLCX0HVDTzKbDn42___8Pt3fa-VH6iOwBpye-xcJwjOWf1XC5mdHftOWg6-G2IXB_VY6fwAWkW631PbBmtPJOjikx99gQ3Y9ZvIURI5PzLj5pUlKaGHzCX7dvw-NS9AJVh4Z973RM9mlVAm3UKd5fGPC7r_EgUIXbrZpVoYEUMfwL?session=0&fife" height="200" width="auto" /><br><br>POI]]></description>
+        <styleUrl>#icon-1710-E65100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0s-0c-mymaps.googleusercontent.com/untrusted/hostedimage/75ptkup1t6arbl09tr46kunqo8/fukke4g68i99k04o16hsi1md0g/1636380131750/XN5no1YkbF2fDQOQmoiqAyDJGVSrltl5/09234823175066956093/5AIsG_vbW6nd9wWeKYYEYS6UETVnTLCX0HVDTzKbDn42___8Pt3fa-VH6iOwBpye-xcJwjOWf1XC5mdHftOWg6-G2IXB_VY6fwAWkW631PbBmtPJOjikx99gQ3Y9ZvIURI5PzLj5pUlKaGHzCX7dvw-NS9AJVh4Z973RM9mlVAm3UKd5fGPC7r_EgUIXbrZpVoYEUMfwL?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            11.961625,57.6876581,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A3</name>
+        <description><![CDATA[<img src="https://doc-14-0c-mymaps.googleusercontent.com/untrusted/hostedimage/75ptkup1t6arbl09tr46kunqo8/7tcgdolsinbqoeb8hqq39j705s/1636380131750/XN5no1YkbF2fDQOQmoiqAyDJGVSrltl5/09234823175066956093/5AIsG_vaETWr-wwjwsk5Y4k4NDffgpZpoZLXyC7Y7tjlsT1mJQ3HPBsc7n34yEHjd75A00MAxccDCuN5uOXZZtfh4xm_0HCeYTNvr9mWFormDQOwoZeaYWP8lNODM7c-x2Mq0xFpRE5_hR6BTof4qLfkZGgCarcsq_ZJOQ-mJIs5_xRY66EShavaQ9g1j8KCu4PaxZt5d?session=0&fife" height="200" width="auto" /><br><br>POI]]></description>
+        <styleUrl>#icon-1710-E65100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-14-0c-mymaps.googleusercontent.com/untrusted/hostedimage/75ptkup1t6arbl09tr46kunqo8/7tcgdolsinbqoeb8hqq39j705s/1636380131750/XN5no1YkbF2fDQOQmoiqAyDJGVSrltl5/09234823175066956093/5AIsG_vaETWr-wwjwsk5Y4k4NDffgpZpoZLXyC7Y7tjlsT1mJQ3HPBsc7n34yEHjd75A00MAxccDCuN5uOXZZtfh4xm_0HCeYTNvr9mWFormDQOwoZeaYWP8lNODM7c-x2Mq0xFpRE5_hR6BTof4qLfkZGgCarcsq_ZJOQ-mJIs5_xRY66EShavaQ9g1j8KCu4PaxZt5d?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            11.96701,57.689618,100.58
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A9</name>
+        <description><![CDATA[<img src="https://doc-00-0c-mymaps.googleusercontent.com/untrusted/hostedimage/75ptkup1t6arbl09tr46kunqo8/o2sutk3bnjqbt9a8sj268lmqu0/1636380131750/XN5no1YkbF2fDQOQmoiqAyDJGVSrltl5/09234823175066956093/5AIsG_vYzOhW5GYxKB7yg7-VJqjjsrnbTFkn8PkKxlgSgxnqYZbJAqQmdm06xncqpw6O3Rm6FQzhzdWt0rtVkbV0YYs251KcLjCSaKDVJyJeDDf5SX5foLMJbKSZGVHB9BoZEc8IZclUD1JgqTYoWrgS-7vpWHUTXixwieyFETgtchJEUpjDRmF4ZfDfc0e3Ya6K8019Z?session=0&fife" height="200" width="auto" /><br><br>POI]]></description>
+        <styleUrl>#icon-1710-E65100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-00-0c-mymaps.googleusercontent.com/untrusted/hostedimage/75ptkup1t6arbl09tr46kunqo8/o2sutk3bnjqbt9a8sj268lmqu0/1636380131750/XN5no1YkbF2fDQOQmoiqAyDJGVSrltl5/09234823175066956093/5AIsG_vYzOhW5GYxKB7yg7-VJqjjsrnbTFkn8PkKxlgSgxnqYZbJAqQmdm06xncqpw6O3Rm6FQzhzdWt0rtVkbV0YYs251KcLjCSaKDVJyJeDDf5SX5foLMJbKSZGVHB9BoZEc8IZclUD1JgqTYoWrgS-7vpWHUTXixwieyFETgtchJEUpjDRmF4ZfDfc0e3Ya6K8019Z?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            11.9702068,57.69183,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A19</name>
+        <description><![CDATA[<img src="https://doc-0k-0c-mymaps.googleusercontent.com/untrusted/hostedimage/75ptkup1t6arbl09tr46kunqo8/h9ou37854beogaihnrprv06jfs/1636380131750/XN5no1YkbF2fDQOQmoiqAyDJGVSrltl5/09234823175066956093/5AIsG_vbUCNcrOu4GYNBnfTDAYY8_CuV-XgGKtaUxwtaDJiecSz0GoeElqKpQ6GGRsrV1pigDpD3X9_HVsuJHSEPutwGypISPPiQsXkIsFgGcI9sSz58p-_ilQTuho45MlFsUK8ywg58JJ-yUhDszxe-mGlU95rlL_1FBtM0_mStBQlVrUiiwBhirygdnLw6RDBxhV6CI?session=0&fife" height="200" width="auto" /><br><br>Ingen fälla här]]></description>
+        <styleUrl>#icon-1710-E65100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0k-0c-mymaps.googleusercontent.com/untrusted/hostedimage/75ptkup1t6arbl09tr46kunqo8/h9ou37854beogaihnrprv06jfs/1636380131750/XN5no1YkbF2fDQOQmoiqAyDJGVSrltl5/09234823175066956093/5AIsG_vbUCNcrOu4GYNBnfTDAYY8_CuV-XgGKtaUxwtaDJiecSz0GoeElqKpQ6GGRsrV1pigDpD3X9_HVsuJHSEPutwGypISPPiQsXkIsFgGcI9sSz58p-_ilQTuho45MlFsUK8ywg58JJ-yUhDszxe-mGlU95rlL_1FBtM0_mStBQlVrUiiwBhirygdnLw6RDBxhV6CI?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            11.967984,57.6989425,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A5</name>
+        <description><![CDATA[<img src="https://doc-0k-0c-mymaps.googleusercontent.com/untrusted/hostedimage/75ptkup1t6arbl09tr46kunqo8/s669d831c1tmuumuj73n0trehk/1636380131750/XN5no1YkbF2fDQOQmoiqAyDJGVSrltl5/09234823175066956093/5AIsG_vYVhEsfnOS7G7w_5cZx4CR9wL4VWvTPWPggo0ELUZa-TqpQOPuYuuqkUJ23VMOI7K-RPlBo6yqKzrFboeksudjzhISMFUzUvr-1qoSq-C_YCjbPVYkvdBtM9FsM3xUHgNJD40xCso7RCU8Bz6I0qljUqcsEMgXi3FtDwMuIVLY2LTSUW4xsFJeC6aOQp9e089dA?session=0&fife" height="200" width="auto" /><br><br>POI]]></description>
+        <styleUrl>#icon-1710-E65100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0k-0c-mymaps.googleusercontent.com/untrusted/hostedimage/75ptkup1t6arbl09tr46kunqo8/s669d831c1tmuumuj73n0trehk/1636380131750/XN5no1YkbF2fDQOQmoiqAyDJGVSrltl5/09234823175066956093/5AIsG_vYVhEsfnOS7G7w_5cZx4CR9wL4VWvTPWPggo0ELUZa-TqpQOPuYuuqkUJ23VMOI7K-RPlBo6yqKzrFboeksudjzhISMFUzUvr-1qoSq-C_YCjbPVYkvdBtM9FsM3xUHgNJD40xCso7RCU8Bz6I0qljUqcsEMgXi3FtDwMuIVLY2LTSUW4xsFJeC6aOQp9e089dA?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            11.967017,57.7020191,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A1</name>
+        <description><![CDATA[<img src="https://doc-0k-0c-mymaps.googleusercontent.com/untrusted/hostedimage/75ptkup1t6arbl09tr46kunqo8/lub4gv9vpb0292pcv4bce0ls58/1636380131750/XN5no1YkbF2fDQOQmoiqAyDJGVSrltl5/09234823175066956093/5AIsG_vZ2pn86lEGIyktCYdtztRWshBkNcn_A0gwynha_yPgwkdIltOLcm3RiHUr5ucjJpuKXhyIM1DM97peQnInQ87vz5wT__yUzwfPviXEwKWGsCnPqhn7uDRXZMmLQhFntjJdlRJ4JkmN6s7QStRm3r805Ll-gh6GRqkKRb-oN0Avm2BFI7n2M265qffo3shA9nsVE?session=0&fife" height="200" width="auto" /><br><br>Sätt fälla vid Domkyrkan om möjligt]]></description>
+        <styleUrl>#icon-1710-E65100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0k-0c-mymaps.googleusercontent.com/untrusted/hostedimage/75ptkup1t6arbl09tr46kunqo8/lub4gv9vpb0292pcv4bce0ls58/1636380131750/XN5no1YkbF2fDQOQmoiqAyDJGVSrltl5/09234823175066956093/5AIsG_vZ2pn86lEGIyktCYdtztRWshBkNcn_A0gwynha_yPgwkdIltOLcm3RiHUr5ucjJpuKXhyIM1DM97peQnInQ87vz5wT__yUzwfPviXEwKWGsCnPqhn7uDRXZMmLQhFntjJdlRJ4JkmN6s7QStRm3r805Ll-gh6GRqkKRb-oN0Avm2BFI7n2M265qffo3shA9nsVE?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            11.9670144,57.7039615,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A18</name>
+        <description><![CDATA[<img src="https://doc-14-0c-mymaps.googleusercontent.com/untrusted/hostedimage/75ptkup1t6arbl09tr46kunqo8/onipfdm1ima3a2uu34355koles/1636380131750/XN5no1YkbF2fDQOQmoiqAyDJGVSrltl5/09234823175066956093/5AIsG_vaDr98jrDXSEJp08j3Lf8FxvMd5-ryXNrxd-OHvxcOkwRMGCzsZ7aQKdHIFDDR66qPUhkvAeukyJKlQHEzW48nR9WR7kURclgA8G7KCsEY0kIEadxdZ7Eg_cb6Vz6fbY5VVoH1mjA5Nc8toxWl4AKeU9bvWZQpFW6gsc3sZtIKlEtC-OmallVvoMZF0bkrbk_lj?session=0&fife" height="200" width="auto" /><br><br>POI]]></description>
+        <styleUrl>#icon-1710-E65100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-14-0c-mymaps.googleusercontent.com/untrusted/hostedimage/75ptkup1t6arbl09tr46kunqo8/onipfdm1ima3a2uu34355koles/1636380131750/XN5no1YkbF2fDQOQmoiqAyDJGVSrltl5/09234823175066956093/5AIsG_vaDr98jrDXSEJp08j3Lf8FxvMd5-ryXNrxd-OHvxcOkwRMGCzsZ7aQKdHIFDDR66qPUhkvAeukyJKlQHEzW48nR9WR7kURclgA8G7KCsEY0kIEadxdZ7Eg_cb6Vz6fbY5VVoH1mjA5Nc8toxWl4AKeU9bvWZQpFW6gsc3sZtIKlEtC-OmallVvoMZF0bkrbk_lj?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            11.9195148,57.6934387,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A14</name>
+        <description><![CDATA[<img src="https://doc-0k-0c-mymaps.googleusercontent.com/untrusted/hostedimage/75ptkup1t6arbl09tr46kunqo8/f53648oovjrbf6lmh6ot085pbc/1636380131750/XN5no1YkbF2fDQOQmoiqAyDJGVSrltl5/09234823175066956093/5AIsG_vY2cN3Xz5VPnaBo7JDL_gqd55RiHbQPj0JF99kiguLBMltlSYEEF4rOvO8iF-yxUqqW06xztwlzAd1epFEPT1xAkqNYgkpJfZVNOeO36RJ8BSbZ90Z8-OPX4PtRQKDiVmxWnTFsZSXxmBhTh3M6M45H3IPCNtlspq1QUbPHVe32UfWTaHRFjhvd8DxzPIPGk9Ad?session=0&fife" height="200" width="auto" /><br><br>POI]]></description>
+        <styleUrl>#icon-1710-E65100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0k-0c-mymaps.googleusercontent.com/untrusted/hostedimage/75ptkup1t6arbl09tr46kunqo8/f53648oovjrbf6lmh6ot085pbc/1636380131750/XN5no1YkbF2fDQOQmoiqAyDJGVSrltl5/09234823175066956093/5AIsG_vY2cN3Xz5VPnaBo7JDL_gqd55RiHbQPj0JF99kiguLBMltlSYEEF4rOvO8iF-yxUqqW06xztwlzAd1epFEPT1xAkqNYgkpJfZVNOeO36RJ8BSbZ90Z8-OPX4PtRQKDiVmxWnTFsZSXxmBhTh3M6M45H3IPCNtlspq1QUbPHVe32UfWTaHRFjhvd8DxzPIPGk9Ad?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            11.9471148,57.7175436,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A13</name>
+        <description><![CDATA[<img src="https://doc-0s-0c-mymaps.googleusercontent.com/untrusted/hostedimage/75ptkup1t6arbl09tr46kunqo8/m8cpha3963c9oqk38qgq3hnmdk/1636380131750/XN5no1YkbF2fDQOQmoiqAyDJGVSrltl5/09234823175066956093/5AIsG_vYVCvr0_mPjY_p0M1eHk9SWGDhtpWNgDtWnvdMcdJrJV0caTeepMC-Yqnf47B3IXl33hrDZnQnIUXGOmZY7dIY4q8DgFF3tMcoBv0yj0Kj4U49Za28DM_6VDTELFRsxYm0UzMA07oKGTIF5ApQsvA8rKWA4PqwLAyHTEB4P80jJpZQxDU2J4dj59A_FAUwmbXLJ?session=0&fife" height="200" width="auto" /><br><br>POI<br><br><img src="https://doc-10-0c-mymaps.googleusercontent.com/untrusted/hostedimage/75ptkup1t6arbl09tr46kunqo8/laphutf72l32sb6krhqkm2ak9c/1636380131750/XN5no1YkbF2fDQOQmoiqAyDJGVSrltl5/09234823175066956093/5AIsG_vYQwclxPhlTzy5EuIKAAmwnwrKuwKh6h10LqLNwdbzKgH4qyjOyD2ptLelrX5-T2SvRF0OoKD720_sxih8t8AUqDQrOKLYVFiyqtP0gnOOxFRil6dkMNR3qmrqelkUPmc4JYn4HYq_ehomfbvCkxGRJp_G8KO7X3JlQCCA-aWkMDU7r3FgHyAFppnmXp-EYh_bF?session=0&fife" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1710-E65100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0s-0c-mymaps.googleusercontent.com/untrusted/hostedimage/75ptkup1t6arbl09tr46kunqo8/m8cpha3963c9oqk38qgq3hnmdk/1636380131750/XN5no1YkbF2fDQOQmoiqAyDJGVSrltl5/09234823175066956093/5AIsG_vYVCvr0_mPjY_p0M1eHk9SWGDhtpWNgDtWnvdMcdJrJV0caTeepMC-Yqnf47B3IXl33hrDZnQnIUXGOmZY7dIY4q8DgFF3tMcoBv0yj0Kj4U49Za28DM_6VDTELFRsxYm0UzMA07oKGTIF5ApQsvA8rKWA4PqwLAyHTEB4P80jJpZQxDU2J4dj59A_FAUwmbXLJ?session=0&fife https://doc-10-0c-mymaps.googleusercontent.com/untrusted/hostedimage/75ptkup1t6arbl09tr46kunqo8/laphutf72l32sb6krhqkm2ak9c/1636380131750/XN5no1YkbF2fDQOQmoiqAyDJGVSrltl5/09234823175066956093/5AIsG_vYQwclxPhlTzy5EuIKAAmwnwrKuwKh6h10LqLNwdbzKgH4qyjOyD2ptLelrX5-T2SvRF0OoKD720_sxih8t8AUqDQrOKLYVFiyqtP0gnOOxFRil6dkMNR3qmrqelkUPmc4JYn4HYq_ehomfbvCkxGRJp_G8KO7X3JlQCCA-aWkMDU7r3FgHyAFppnmXp-EYh_bF?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            11.9466529,57.7224668,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A10</name>
+        <description><![CDATA[<img src="https://doc-10-0c-mymaps.googleusercontent.com/untrusted/hostedimage/75ptkup1t6arbl09tr46kunqo8/bl14hd5rsescvgrt3d4tassvgo/1636380131750/XN5no1YkbF2fDQOQmoiqAyDJGVSrltl5/09234823175066956093/5AIsG_vamgILnTLrP4bLZ1c_V7so9BhbGTw65COlL-wD-e0PCe5LYEYF7Z7v35DqeKCLmttNuqjGZsWrRBVSAak2T9EApRVHJpGE6gBU5YWvQS_NZ_tymrQqCI1YKOvQTISZFfWH5icZ2XYdPwqP5kPf8iSl48lPEbxoYjQfboEwXTPbhz8ZXllqLHr-46PRmnaeuIwgA?session=0&fife" height="200" width="auto" /><br><br>POI]]></description>
+        <styleUrl>#icon-1710-E65100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-10-0c-mymaps.googleusercontent.com/untrusted/hostedimage/75ptkup1t6arbl09tr46kunqo8/bl14hd5rsescvgrt3d4tassvgo/1636380131750/XN5no1YkbF2fDQOQmoiqAyDJGVSrltl5/09234823175066956093/5AIsG_vamgILnTLrP4bLZ1c_V7so9BhbGTw65COlL-wD-e0PCe5LYEYF7Z7v35DqeKCLmttNuqjGZsWrRBVSAak2T9EApRVHJpGE6gBU5YWvQS_NZ_tymrQqCI1YKOvQTISZFfWH5icZ2XYdPwqP5kPf8iSl48lPEbxoYjQfboEwXTPbhz8ZXllqLHr-46PRmnaeuIwgA?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            11.940918,57.7223575,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A15</name>
+        <description><![CDATA[<img src="https://doc-0s-0c-mymaps.googleusercontent.com/untrusted/hostedimage/75ptkup1t6arbl09tr46kunqo8/mjv3memm9kcg9bljqplgc6ss9o/1636380131750/XN5no1YkbF2fDQOQmoiqAyDJGVSrltl5/09234823175066956093/5AIsG_vbBdAIYnU3n5MZhj8vB5Y7TK7HdqSN8a-Td8ShzPeRpFrU0A2uL-wBCHlSZEtEbY1m0syJb_e7wZtR2Uv-xT7-H1_jqfK8nRtaS-Fet1ML6JUWVL_oHfZI6JL46BGwfJeDxkV0PTex5dBAtrZhjdZUG6xw17oAhx1Sgg4JnBM2in97VzuisdFrrBEeI-RvajVCc?session=0&fife" height="200" width="auto" /><br><br>POI]]></description>
+        <styleUrl>#icon-1710-E65100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0s-0c-mymaps.googleusercontent.com/untrusted/hostedimage/75ptkup1t6arbl09tr46kunqo8/mjv3memm9kcg9bljqplgc6ss9o/1636380131750/XN5no1YkbF2fDQOQmoiqAyDJGVSrltl5/09234823175066956093/5AIsG_vbBdAIYnU3n5MZhj8vB5Y7TK7HdqSN8a-Td8ShzPeRpFrU0A2uL-wBCHlSZEtEbY1m0syJb_e7wZtR2Uv-xT7-H1_jqfK8nRtaS-Fet1ML6JUWVL_oHfZI6JL46BGwfJeDxkV0PTex5dBAtrZhjdZUG6xw17oAhx1Sgg4JnBM2in97VzuisdFrrBEeI-RvajVCc?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            11.9397195,57.7253893,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A6</name>
+        <description><![CDATA[<img src="https://doc-0s-0c-mymaps.googleusercontent.com/untrusted/hostedimage/75ptkup1t6arbl09tr46kunqo8/m5dmnhock6apo8iu6ivp04hj1s/1636380131750/XN5no1YkbF2fDQOQmoiqAyDJGVSrltl5/09234823175066956093/5AIsG_vYkaAuDDehOfOn0EKMMc18DYkuoDp3d2zXBApOYfSE8HckFoOI77DhdSADRNihFNockMO-RxtDRfiAHAeX_8haVn8z7TbcamfCnf9_KEunhTI2W9hFs9uT3lSEYWa_fQQ2SXa6DcJGCN1d1AgFOidkh89GWCtfii5YO1XdS2rV9_-h6MataIti0iKXAkyQ6QhWs?session=0&fife" height="200" width="auto" /><br><br>POI]]></description>
+        <styleUrl>#icon-1710-E65100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0s-0c-mymaps.googleusercontent.com/untrusted/hostedimage/75ptkup1t6arbl09tr46kunqo8/m5dmnhock6apo8iu6ivp04hj1s/1636380131750/XN5no1YkbF2fDQOQmoiqAyDJGVSrltl5/09234823175066956093/5AIsG_vYkaAuDDehOfOn0EKMMc18DYkuoDp3d2zXBApOYfSE8HckFoOI77DhdSADRNihFNockMO-RxtDRfiAHAeX_8haVn8z7TbcamfCnf9_KEunhTI2W9hFs9uT3lSEYWa_fQQ2SXa6DcJGCN1d1AgFOidkh89GWCtfii5YO1XdS2rV9_-h6MataIti0iKXAkyQ6QhWs?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            11.9520399,57.725984,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A11</name>
+        <description><![CDATA[<img src="https://doc-0g-0c-mymaps.googleusercontent.com/untrusted/hostedimage/75ptkup1t6arbl09tr46kunqo8/hnd7f8ch8b5cki9ad25ifi366s/1636380131750/XN5no1YkbF2fDQOQmoiqAyDJGVSrltl5/09234823175066956093/5AIsG_vbF6YTSG3bKDlIvYWt3isDSSSxjI6HXRYCXQSTVq9rOgqbSFFoRSqSFYEsla8v3MPrxJjhjrPlCITksViL-KsXza6ghbF6LgBEPy7VAExPp8AsN8kig6wdIvI5DwR5GTzsuVGYgqSWrbZIIXorc_xAFofM_DV9QSv_UvpUcYHhj7nz4Tjru4QcCPvZz45_ksMNP?session=0&fife" height="200" width="auto" /><br><br>POI]]></description>
+        <styleUrl>#icon-1710-E65100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0g-0c-mymaps.googleusercontent.com/untrusted/hostedimage/75ptkup1t6arbl09tr46kunqo8/hnd7f8ch8b5cki9ad25ifi366s/1636380131750/XN5no1YkbF2fDQOQmoiqAyDJGVSrltl5/09234823175066956093/5AIsG_vbF6YTSG3bKDlIvYWt3isDSSSxjI6HXRYCXQSTVq9rOgqbSFFoRSqSFYEsla8v3MPrxJjhjrPlCITksViL-KsXza6ghbF6LgBEPy7VAExPp8AsN8kig6wdIvI5DwR5GTzsuVGYgqSWrbZIIXorc_xAFofM_DV9QSv_UvpUcYHhj7nz4Tjru4QcCPvZz45_ksMNP?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            11.919964,57.683173,55.06
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A12</name>
+        <description><![CDATA[<img src="https://doc-08-0c-mymaps.googleusercontent.com/untrusted/hostedimage/75ptkup1t6arbl09tr46kunqo8/0stbthb1s911ckc6mghigb91as/1636380131750/XN5no1YkbF2fDQOQmoiqAyDJGVSrltl5/09234823175066956093/5AIsG_vbI0nB4vimwllihYdJhduBzHOBcZ4sjOAvCT595U9PuwAKxd5YGZWCNS2RdikaUy9hPGiJKFnuYoJ8cf_Zj8lm_yVAd54jmn4B-6YdbuKwdf_9ouU9sKIp_2WlCvmJMk7b_r_vrjAZ0KplEb7b9_Zro57hXjwbXCEMfm_6DNs060WD_geBjRXR19ONJA_jb2QH1?session=0&fife" height="200" width="auto" /><br><br>POI]]></description>
+        <styleUrl>#icon-1710-E65100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-08-0c-mymaps.googleusercontent.com/untrusted/hostedimage/75ptkup1t6arbl09tr46kunqo8/0stbthb1s911ckc6mghigb91as/1636380131750/XN5no1YkbF2fDQOQmoiqAyDJGVSrltl5/09234823175066956093/5AIsG_vbI0nB4vimwllihYdJhduBzHOBcZ4sjOAvCT595U9PuwAKxd5YGZWCNS2RdikaUy9hPGiJKFnuYoJ8cf_Zj8lm_yVAd54jmn4B-6YdbuKwdf_9ouU9sKIp_2WlCvmJMk7b_r_vrjAZ0KplEb7b9_Zro57hXjwbXCEMfm_6DNs060WD_geBjRXR19ONJA_jb2QH1?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            11.9243485,57.6864518,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A20</name>
+        <description><![CDATA[<img src="https://doc-0g-0c-mymaps.googleusercontent.com/untrusted/hostedimage/75ptkup1t6arbl09tr46kunqo8/26fqh72dperhnidsao4u8skmc0/1636380131750/XN5no1YkbF2fDQOQmoiqAyDJGVSrltl5/09234823175066956093/5AIsG_vY6eQcDWZhTk09xN5UOqvEPAQGCTgPmr7WCW9ADeJev6SZpMQtHouMpt5qD5BLKjR-m-4Wz2ikZnHn1VdNNSmp0JIgo02TcNffJffPBcTMbzpN8rtpbl1KQCIzl6v-4vufQNNT2ruMK5gukhv8Zrn29YGavIvN7YsOP8k7uN7NfKkuiYzPJ9SMpOLrE-NKivT3n?session=0&fife" height="200" width="auto" /><br><br>Martin Gustavsson 0707397129. Text him  before you go there.]]></description>
+        <styleUrl>#icon-1710-E65100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0g-0c-mymaps.googleusercontent.com/untrusted/hostedimage/75ptkup1t6arbl09tr46kunqo8/26fqh72dperhnidsao4u8skmc0/1636380131750/XN5no1YkbF2fDQOQmoiqAyDJGVSrltl5/09234823175066956093/5AIsG_vY6eQcDWZhTk09xN5UOqvEPAQGCTgPmr7WCW9ADeJev6SZpMQtHouMpt5qD5BLKjR-m-4Wz2ikZnHn1VdNNSmp0JIgo02TcNffJffPBcTMbzpN8rtpbl1KQCIzl6v-4vufQNNT2ruMK5gukhv8Zrn29YGavIvN7YsOP8k7uN7NfKkuiYzPJ9SMpOLrE-NKivT3n?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            11.9268789,57.6815369,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A16</name>
+        <description><![CDATA[<img src="https://doc-14-0c-mymaps.googleusercontent.com/untrusted/hostedimage/75ptkup1t6arbl09tr46kunqo8/fh1sgok8r8tcm51oachbi6adfk/1636380131750/XN5no1YkbF2fDQOQmoiqAyDJGVSrltl5/09234823175066956093/5AIsG_vaMK_ZhdJfAbHKHyTKnELNzjarAL3lRsuw9YxfwjqqTR3O4FOsrxHHl5OGR3rvdwNJ4g18nQgbnZsHNkyW667slvMvsIoC8HwOmigNRvjGMxelhu3gBiqY1SOuWbMpGvX1JGXcwtD7LA3yDRYFQod_nWVfkI4xkqtYprmpIV5FjqEdU8WAUgZAFl-HXDSkOmANi?session=0&fife" height="200" width="auto" /><br><br>Lott nr 109. Sensor sitter bakom boden. SMS till mig innan ni går dit 0736584948]]></description>
+        <styleUrl>#icon-1710-E65100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-14-0c-mymaps.googleusercontent.com/untrusted/hostedimage/75ptkup1t6arbl09tr46kunqo8/fh1sgok8r8tcm51oachbi6adfk/1636380131750/XN5no1YkbF2fDQOQmoiqAyDJGVSrltl5/09234823175066956093/5AIsG_vaMK_ZhdJfAbHKHyTKnELNzjarAL3lRsuw9YxfwjqqTR3O4FOsrxHHl5OGR3rvdwNJ4g18nQgbnZsHNkyW667slvMvsIoC8HwOmigNRvjGMxelhu3gBiqY1SOuWbMpGvX1JGXcwtD7LA3yDRYFQod_nWVfkI4xkqtYprmpIV5FjqEdU8WAUgZAFl-HXDSkOmANi?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            11.931144,57.685931,58.67
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A17</name>
+        <description><![CDATA[<img src="https://doc-08-0c-mymaps.googleusercontent.com/untrusted/hostedimage/75ptkup1t6arbl09tr46kunqo8/bj6tqnreenr9ndvftiql63u4g4/1636380131750/XN5no1YkbF2fDQOQmoiqAyDJGVSrltl5/09234823175066956093/5AIsG_vZYwpp8T52KAap7vvwl3ipctDqA3T1qY0g2o2fqSzaedfZYfmXiPWwWfQvJovksdI63WU459V8qY7VAo9LORVfA1I_jUMAAm6m1B7GQ-k_EGSqYa0HxAX2-zuBYhl5iWkYSiWnOFp-AXy369jWtZcpV3Cyxk7h5V1h6YptHkEXOdawhVbQgDHl-lpa52gVBKv17?session=0&fife" height="200" width="auto" /><br><br>POI]]></description>
+        <styleUrl>#icon-1710-E65100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-08-0c-mymaps.googleusercontent.com/untrusted/hostedimage/75ptkup1t6arbl09tr46kunqo8/bj6tqnreenr9ndvftiql63u4g4/1636380131750/XN5no1YkbF2fDQOQmoiqAyDJGVSrltl5/09234823175066956093/5AIsG_vZYwpp8T52KAap7vvwl3ipctDqA3T1qY0g2o2fqSzaedfZYfmXiPWwWfQvJovksdI63WU459V8qY7VAo9LORVfA1I_jUMAAm6m1B7GQ-k_EGSqYa0HxAX2-zuBYhl5iWkYSiWnOFp-AXy369jWtZcpV3Cyxk7h5V1h6YptHkEXOdawhVbQgDHl-lpa52gVBKv17?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            11.9472728,57.6843101,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A4</name>
+        <description><![CDATA[<img src="https://doc-0s-0c-mymaps.googleusercontent.com/untrusted/hostedimage/75ptkup1t6arbl09tr46kunqo8/a70621heaj14rpa80h196g7iqs/1636380131750/XN5no1YkbF2fDQOQmoiqAyDJGVSrltl5/09234823175066956093/5AIsG_vaj6Dax6cHhBW9BTSRVfkbS3UqKRWJOAWXnO8XW6HT5nVtmAJ8DG--RwkthlsE8dvETcu2xE8CLY0uRX-VqEZMYgXoapXRzwC4p1PFvNr9NonAEcixmua9xLyuU10VyfhBm0qTJz5oj-AJ1uzmgGyRIUZ-_p-Ooam-nECU90d8KI9tN3KMwcuGTdqy6DDt2bc3T?session=0&fife" height="200" width="auto" /><br><br>Ingen fälla här]]></description>
+        <styleUrl>#icon-1710-E65100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0s-0c-mymaps.googleusercontent.com/untrusted/hostedimage/75ptkup1t6arbl09tr46kunqo8/a70621heaj14rpa80h196g7iqs/1636380131750/XN5no1YkbF2fDQOQmoiqAyDJGVSrltl5/09234823175066956093/5AIsG_vaj6Dax6cHhBW9BTSRVfkbS3UqKRWJOAWXnO8XW6HT5nVtmAJ8DG--RwkthlsE8dvETcu2xE8CLY0uRX-VqEZMYgXoapXRzwC4p1PFvNr9NonAEcixmua9xLyuU10VyfhBm0qTJz5oj-AJ1uzmgGyRIUZ-_p-Ooam-nECU90d8KI9tN3KMwcuGTdqy6DDt2bc3T?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            11.9943328,57.7110454,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A7</name>
+        <description><![CDATA[<img src="https://doc-0s-0c-mymaps.googleusercontent.com/untrusted/hostedimage/75ptkup1t6arbl09tr46kunqo8/udk5ji63avphhldfkkrg3pmt78/1636380131750/XN5no1YkbF2fDQOQmoiqAyDJGVSrltl5/09234823175066956093/5AIsG_vaNvxW_OTcHIICJb0bT2LMVoYI7fKe6TgYEY_1-96MGkduvbHgskpT0F8uH9Oyj_mUNNprMWC_Bx6WeZXR_2RQxXjitsniLTWpwnEZHr7cLOhQkIJfRbPpu6seyUFdZIjjha-k07zo9RZPECWoJFxMqf5JVRhaemoRT66Ryru-CbpQX9zSypRF5nxddQTuLFW5l?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-1710-E65100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0s-0c-mymaps.googleusercontent.com/untrusted/hostedimage/75ptkup1t6arbl09tr46kunqo8/udk5ji63avphhldfkkrg3pmt78/1636380131750/XN5no1YkbF2fDQOQmoiqAyDJGVSrltl5/09234823175066956093/5AIsG_vaNvxW_OTcHIICJb0bT2LMVoYI7fKe6TgYEY_1-96MGkduvbHgskpT0F8uH9Oyj_mUNNprMWC_Bx6WeZXR_2RQxXjitsniLTWpwnEZHr7cLOhQkIJfRbPpu6seyUFdZIjjha-k07zo9RZPECWoJFxMqf5JVRhaemoRT66Ryru-CbpQX9zSypRF5nxddQTuLFW5l?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            11.9308166,57.7267761,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>GVC</name>
+      <Placemark>
+        <name>GVC</name>
+        <styleUrl>#icon-1661-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            11.9665458,57.6885335,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
