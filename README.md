@@ -1,5 +1,5 @@
 # Mosquitate
-Climate data from the mosquitoes collecting areas in Gothenburg.
+Climate data from the mosquitoes collecting areas in Gothenburg and Uppsala.
 
 It contains the 3 directories:
 - Data: contains the sensor calibration data before the campaign, the measurement at each date of collection (3 times) and the data from GVC building used as reference for synoptic conditions.
